@@ -1,0 +1,9 @@
+* {
+  font-family: Monospace;
+}
+form {
+  margin: 10px;
+}
+div.d-flex {
+  float: right;
+}
